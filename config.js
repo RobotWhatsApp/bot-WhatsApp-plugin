@@ -47,8 +47,8 @@ global.wait = '「 ♲︎︎︎ 」𝐋𝐨𝐚𝐝𝐢𝐧𝐠...'
 global.eror = '「 ⚠︎ 」𝐒𝐞𝐫𝐯𝐞𝐫 𝐄𝐫𝐫𝐨𝐫..'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.watermark = '© 𝐀𝐧𝐝𝐢𝐒𝐚𝐩𝐮𝐭𝐫𝐚' //change the watermark 
-global.image = 'https://telegra.ph/file/1a3eac3701775793618b3.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/ae6f7f701a5be2951648f.jpg'
+global.image = 'https://i.postimg.cc/VNhPVZ8v/chika.jpg' //change the image
+global.thumbfoto = 'https://i.postimg.cc/VNhPVZ8v/chika.jpg'
 
 global.multiplier = 123 // Semakin tinggi, semakin sulit naik level
 
