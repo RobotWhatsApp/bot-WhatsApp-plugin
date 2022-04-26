@@ -90,8 +90,8 @@ module.exports = {
           if (!('sDemote' in chat)) chat.sDemote = ''
           if (!('antiLink' in chat)) chat.antiLink = true
           if (!('autoread' in chat)) chat.autoread = false
-          if (!('broadcast' in chat)) chat.broadcast = true
-          if (!('badword' in chat)) chat.badword = false
+          if (!('broadcast' in chat)) chat.broadcast = false
+          if (!('badword' in chat)) chat.badword = true
           if (!('delete' in chat)) chat.delete = true
           if (!('desc' in chat)) chat.desc = true
           if (!('getmsg' in chat)) chat.getmsg = false
@@ -109,7 +109,7 @@ module.exports = {
           sDemote: '',
           antiLink: true,
           autoread: false,
-          broadcast: true,
+          broadcast: false,
           delete: true,
           desc: true,
           getmsg: false,
@@ -117,7 +117,7 @@ module.exports = {
           stiker: false,
           viewonce: true,
           nsfw: true,
-          badword: false,
+          badword: true,
         }
 
         let settings = global.db.data.settings[this.user.jid]
